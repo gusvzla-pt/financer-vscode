@@ -1,0 +1,14 @@
+{
+  "Header": {
+    "dashboard": "Dashboard",
+    "addTransaction": "Add Transaction",
+    "login": "Login"
+  },
+  "HeroSection": {
+    "title": "Manage Your Finances",
+    "subtitle": "with Intelligence",
+    "description": "An AI-powered financial management platform that helps you track, analyze and optimize your spending with real-time insights.",
+    "getStarted": "Get Started",
+    "prices": "Prices"
+  }
+}
